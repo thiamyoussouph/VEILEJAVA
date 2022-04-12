@@ -11,6 +11,6 @@ public class programe9 {
         System.out.println("entrer le nombre entier");
         Scanner nombre_entier=new Scanner(System.in);
         int entier=nombre_entier.nextInt();
-        System.out.println("les valeur saisies sont:"+ reel+"" + chaine +""+ entier);
+        System.out.println("les valeur saisies sont:" + reel + chaine + entier);
     }
 }
