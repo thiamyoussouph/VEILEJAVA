@@ -1,3 +1,7 @@
 {
-  "java.project.sourcePaths": ["ATTELIOER1", "attelier2"]
+  "java.project.sourcePaths": [
+    "attelier2",
+    "ATTELIOER1",
+    "attelier3"
+  ]
 }
